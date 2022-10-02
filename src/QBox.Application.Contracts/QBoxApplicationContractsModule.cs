@@ -16,7 +16,7 @@ namespace QBox;
     typeof(AbpIdentityApplicationContractsModule),
     typeof(AbpPermissionManagementApplicationContractsModule),
     typeof(AbpSettingManagementApplicationContractsModule),
-    typeof(AbpTenantManagementApplicationContractsModule),
+    //typeof(AbpTenantManagementApplicationContractsModule),
     typeof(AbpObjectExtendingModule)
 )]
 public class QBoxApplicationContractsModule : AbpModule

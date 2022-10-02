@@ -16,8 +16,8 @@ namespace QBox;
     typeof(AbpAccountHttpApiModule),
     typeof(AbpIdentityHttpApiModule),
     typeof(AbpPermissionManagementHttpApiModule),
-    typeof(AbpTenantManagementHttpApiModule),
-    typeof(AbpFeatureManagementHttpApiModule),
+    //typeof(AbpTenantManagementHttpApiModule),
+    //typeof(AbpFeatureManagementHttpApiModule),
     typeof(AbpSettingManagementHttpApiModule)
     )]
 public class QBoxHttpApiModule : AbpModule

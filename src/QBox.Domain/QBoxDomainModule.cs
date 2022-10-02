@@ -26,7 +26,7 @@ namespace QBox;
     typeof(AbpIdentityServerDomainModule),
     typeof(AbpPermissionManagementDomainIdentityServerModule),
     typeof(AbpSettingManagementDomainModule),
-    typeof(AbpTenantManagementDomainModule),
+    //typeof(AbpTenantManagementDomainModule),
     typeof(AbpEmailingModule)
 )]
 public class QBoxDomainModule : AbpModule
